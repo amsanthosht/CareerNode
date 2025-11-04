@@ -26,7 +26,7 @@ class LoginRoute extends Component {
           id="username"
           onChange={this.onChangeUsername}
           className="username-input-field"
-          placeholder="rahul"
+          placeholder="rahul" 
         />
       </>
     )
@@ -45,7 +45,7 @@ class LoginRoute extends Component {
           id="password"
           onChange={this.onChangePassword}
           className="password-input-field"
-          placeholder="rahul@2021"
+          placeholder="rahul@2021" 
         />
       </>
     )
